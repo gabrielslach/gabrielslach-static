@@ -50,3 +50,12 @@ h1 {
 .navbar svg.svg-inline--fa:hover {
     color: #4786c5;
 }
+
+.image-copyright {
+    z-index: -1;
+    position: absolute;
+    right: 1%;
+    bottom: 1%;
+    color: #80c5f7;
+    font-size: 0.5em;
+}
