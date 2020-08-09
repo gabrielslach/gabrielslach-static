@@ -46,3 +46,7 @@ h1 {
     margin: 0 1rem 0 0;
     color: #828c96;
   }
+
+.navbar svg.svg-inline--fa:hover {
+    color: #4786c5;
+}
